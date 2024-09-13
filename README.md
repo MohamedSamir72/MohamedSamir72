@@ -1,7 +1,6 @@
-# Mohamed Samir
-
-**Mechatronics Student | Robotics Enthusias**  
-Higher Technological Institute (HTI)
+<p align="center">
+  Hi, I'm Mohamed 👋
+</p>
 
 ---
 
